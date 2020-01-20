@@ -105,18 +105,18 @@ p {
   }
   .inner {
     position: relative;
-    top: 60px;
+    // top: 60px;
     h3 {
       margin: 8px 0;
-      opacity: 0;
+      opacity: 1;
       font-size: 2rem;
       font-weight: 900;
     }
     p {
-      opacity: 0;
+      opacity: 1;
     }
     .btn-row {
-      opacity: 0;
+      opacity: 1;
       a {
         background: $dpurp;
         width: 100%;
